@@ -1,0 +1,26 @@
+Jesus Becerra 10/03/2017
+
+Commands used for the Assignment:
+
+>md GitHubRepoAssignment
+
+>cd GitHubRepoAssignment
+
+>git init
+
+>copy NUL readme.me
+
+>git status
+
+>copy NUL GitHubRepoAssignment.txt
+
+>git status
+
+>git add .
+
+>git commit -m "Adding readme and GitHubRepoAssignment documents"
+
+>git remote add origin https://github.com/Daenatal/GitHubRepoAssignment.git
+
+>git push -u origin master
+
